@@ -13,3 +13,10 @@ Ce repertoire est un exemple de methode pour realiser des splash screen sur stre
 ## Ecran 2 d'accueil après 5 secondes
 
 ![alt text](/img/Image2.png)
+
+# Comment executer ?:
+
+1. Executer l'invite de commande à la racine du projet
+2. Executer les la commande suivante:
+
+`streamlit run main.py`
